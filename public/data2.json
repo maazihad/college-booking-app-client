@@ -1,22 +1,22 @@
 [
    {
       "id": 1,
-      "imageUrl": "https://cdn1.careeraddict.com/uploads/article/56083/university-of-vienna-700px-400px.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Harper_Midway_Chicago.jpg/300px-Harper_Midway_Chicago.jpg",
       "caption": "ABC University - Main Campus"
    },
    {
       "id": 2,
-      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56105/cambridge-university-exterior-england.jpg",
+      "imageUrl": "https://i.insider.com/598b3fe2b9cd6c4c008b49ac?width=1000&format=jpeg&auto=webp",
       "caption": "XYZ College - Campus Garden"
    },
    {
       "id": 3,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
       "caption": "MNO Institute - Auditorium"
    },
    {
       "id": 4,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
       "caption": "PQR College of Arts - Art Exhibition"
    },
    {
@@ -26,77 +26,77 @@
    },
    {
       "id": 6,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
       "caption": "JKL Medical College - Anatomy Lab"
    },
    {
       "id": 7,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56084/university-florence-700px-400px.jpg",
+      "imageUrl": "https://uniacco.com/blog/wp-content/uploads/2019/12/shutterstock_1062917057.jpg",
       "caption": "STU Engineering Institute - Robotics Lab"
    },
    {
       "id": 8,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56084/university-florence-700px-400px.jpg",
+      "imageUrl": "https://www.universitystudy.ca/wp-content/uploads/2022/08/fall_campus_01-3.png",
       "caption": "VWX Law School - Moot Court"
    },
    {
       "id": 9,
-      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56090/sapienza-university-rome-700px-400px.jpg",
+      "imageUrl": "https://www.topuniversities.com/sites/default/files/styles/articles_inline/public/embed-carousel/MIT%20main.jpg.webp",
       "caption": "OPQ Music Academy - Music Festival"
    },
    {
       "id": 10,
-      "imageUrl": "https://cdn1.careeraddict.com/uploads/article/56091/complutense-university-of-madrid.jpg",
+      "imageUrl": "https://www.worldatlas.com/r/w1200/upload/b0/f6/92/shutterstock-158126201.jpg",
       "caption": "EFG Design Institute - Fashion Show"
    },
    {
       "id": 11,
-      "imageUrl": "https://cdn3.careeraddict.com/uploads/article/56093/university-macerata.jpg",
+      "imageUrl": "https://uk.urbanest.com/wp-content/uploads/Students-graduating-in-London.jpg",
       "caption": "LMN Business School - Conference Room"
    },
    {
       "id": 12,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56092/university-coimbra-700px-400px.jpg",
-      "caption": "JKL Medical College - Surgery Department"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Harper_Midway_Chicago.jpg/300px-Harper_Midway_Chicago.jpg",
+      "caption": "ABC University - Main Campus"
    },
    {
       "id": 13,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56092/university-coimbra-700px-400px.jpg",
-      "caption": "STU Engineering Institute - Computer Science Lab"
+      "imageUrl": "https://i.insider.com/598b3fe2b9cd6c4c008b49ac?width=1000&format=jpeg&auto=webp",
+      "caption": "XYZ College - Campus Garden"
    },
    {
       "id": 14,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56096/university-siena-700px-400px.jpg",
-      "caption": "VWX Law School - Legal Research Library"
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
+      "caption": "MNO Institute - Auditorium"
    },
    {
       "id": 15,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56095/university-naples-federico-II.JPG",
-      "caption": "OPQ Music Academy - Jam Session"
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
+      "caption": "PQR College of Arts - Art Exhibition"
    },
    {
       "id": 16,
-      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56098/university-padua-700px-400px.jpg",
-      "caption": "EFG Design Institute - Graphic Design Studio"
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "caption": "LMN Business School - Seminar Hall"
    },
    {
       "id": 17,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56099/cambridge-university-england-700px-400px.jpg",
-      "caption": "ABC University - Library"
+      "imageUrl": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
+      "caption": "JKL Medical College - Anatomy Lab"
    },
    {
       "id": 18,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56104/sorbonne-university-paris-700px-400px.jpg",
-      "caption": "XYZ College - Sports Ground"
+      "imageUrl": "https://uniacco.com/blog/wp-content/uploads/2019/12/shutterstock_1062917057.jpg",
+      "caption": "STU Engineering Institute - Robotics Lab"
    },
    {
       "id": 19,
-      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56102/university-salamanca-700px-400px.jpg",
-      "caption": "MNO Institute - Chemistry Lab"
+      "imageUrl": "https://www.universitystudy.ca/wp-content/uploads/2022/08/fall_campus_01-3.png",
+      "caption": "VWX Law School - Moot Court"
    },
    {
       "id": 20,
-      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56100/radcliffe-science-library-oxford-700px-400px.jpg",
+      "imageUrl": "https://uk.urbanest.com/wp-content/uploads/Students-graduating-in-London.jpg",
       "caption": "PQR College of Arts - Drama Workshop"
    }
 ]
