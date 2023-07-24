@@ -8,17 +8,15 @@ const Home = () => {
    const [colleges, setColleges] = useState([]);
    const [searchQuery, setSearchQuery] = useState('');
 
-   // Fetch college data from the backend API
+
    useEffect(() => {
-      // Add your API call to fetch college data
-      // Example API call using fetch:
       fetch('/data.json')
          .then((response) => response.json())
          .then((data) => setColleges(data))
          .catch((error) => console.error('Error fetching college data:', error));
    }, []);
 
-   // Filter colleges based on search query
+
    const filteredColleges = colleges.filter((college) =>
       college.name.toLowerCase().includes(searchQuery.toLowerCase())
    );
