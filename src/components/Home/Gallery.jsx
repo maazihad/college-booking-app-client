@@ -18,7 +18,7 @@ const Gallery = () => {
                galleryImages.map(image => <div
                   key={image.id}
                >
-                  <img src={image.imageUrl} alt="" />
+                  <img src={image.imageUrl} alt="image here" />
                   <p>{image.caption}</p>
                </div>)
             }
