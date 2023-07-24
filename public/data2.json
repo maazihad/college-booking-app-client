@@ -1,0 +1,102 @@
+[
+   {
+      "id": 1,
+      "imageUrl": "https://cdn1.careeraddict.com/uploads/article/56083/university-of-vienna-700px-400px.jpg",
+      "caption": "ABC University - Main Campus"
+   },
+   {
+      "id": 2,
+      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56105/cambridge-university-exterior-england.jpg",
+      "caption": "XYZ College - Campus Garden"
+   },
+   {
+      "id": 3,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "caption": "MNO Institute - Auditorium"
+   },
+   {
+      "id": 4,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "caption": "PQR College of Arts - Art Exhibition"
+   },
+   {
+      "id": 5,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "caption": "LMN Business School - Seminar Hall"
+   },
+   {
+      "id": 6,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56087/jagiellonian-university-700px-400px.jpg",
+      "caption": "JKL Medical College - Anatomy Lab"
+   },
+   {
+      "id": 7,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56084/university-florence-700px-400px.jpg",
+      "caption": "STU Engineering Institute - Robotics Lab"
+   },
+   {
+      "id": 8,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56084/university-florence-700px-400px.jpg",
+      "caption": "VWX Law School - Moot Court"
+   },
+   {
+      "id": 9,
+      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56090/sapienza-university-rome-700px-400px.jpg",
+      "caption": "OPQ Music Academy - Music Festival"
+   },
+   {
+      "id": 10,
+      "imageUrl": "https://cdn1.careeraddict.com/uploads/article/56091/complutense-university-of-madrid.jpg",
+      "caption": "EFG Design Institute - Fashion Show"
+   },
+   {
+      "id": 11,
+      "imageUrl": "https://cdn3.careeraddict.com/uploads/article/56093/university-macerata.jpg",
+      "caption": "LMN Business School - Conference Room"
+   },
+   {
+      "id": 12,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56092/university-coimbra-700px-400px.jpg",
+      "caption": "JKL Medical College - Surgery Department"
+   },
+   {
+      "id": 13,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56092/university-coimbra-700px-400px.jpg",
+      "caption": "STU Engineering Institute - Computer Science Lab"
+   },
+   {
+      "id": 14,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56096/university-siena-700px-400px.jpg",
+      "caption": "VWX Law School - Legal Research Library"
+   },
+   {
+      "id": 15,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56095/university-naples-federico-II.JPG",
+      "caption": "OPQ Music Academy - Jam Session"
+   },
+   {
+      "id": 16,
+      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56098/university-padua-700px-400px.jpg",
+      "caption": "EFG Design Institute - Graphic Design Studio"
+   },
+   {
+      "id": 17,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56099/cambridge-university-england-700px-400px.jpg",
+      "caption": "ABC University - Library"
+   },
+   {
+      "id": 18,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56104/sorbonne-university-paris-700px-400px.jpg",
+      "caption": "XYZ College - Sports Ground"
+   },
+   {
+      "id": 19,
+      "imageUrl": "https://cdn2.careeraddict.com/uploads/article/56102/university-salamanca-700px-400px.jpg",
+      "caption": "MNO Institute - Chemistry Lab"
+   },
+   {
+      "id": 20,
+      "imageUrl": "https://cdn0.careeraddict.com/uploads/article/56100/radcliffe-science-library-oxford-700px-400px.jpg",
+      "caption": "PQR College of Arts - Drama Workshop"
+   }
+]

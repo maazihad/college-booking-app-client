@@ -40,16 +40,16 @@ const Footer = () => {
                   </p>
                   <div className="mt-4 flex mr-2  items-center">
                      <a href="https://www.facebook.com/maazihadin" target="_blank" className="mr-2">
-                        <BsFacebook size={24} />
+                        <BsFacebook size={20} />
                      </a>
                      <a href="https://twitter.com/maazihad" target="_blank" className="mr-2">
-                        <BsTwitter size={24} />
+                        <BsTwitter size={20} />
                      </a>
                      <a href="https://www.instagram.com/maazihadin/" target="_blank" className="mr-2">
-                        <BsInstagram size={24} />
+                        <BsInstagram size={20} />
                      </a>
                      <a href="https://www.linkedin.com/in/maazihad/" target="_blank" className="mr-2">
-                        <BsLinkedin size={24} />
+                        <BsLinkedin size={20} />
                      </a>
                   </div>
                </div>

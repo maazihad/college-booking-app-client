@@ -1,0 +1,582 @@
+[
+   {
+      "id": 1,
+      "name": "ABC University",
+      "image": "https://cdn.britannica.com/85/13085-050-C2E88389/Corpus-Christi-College-University-of-Cambridge-England.jpg",
+      "admissionDate": "2023-09-01",
+      "events": [
+         "Event 1",
+         "Event 2",
+         "Event 3"
+      ],
+      "researchHistory": "Research History for ABC University",
+      "sports": [
+         "Football",
+         "Basketball",
+         "Volleyball"
+      ],
+      "reviews": [
+         {
+            "user": "John Doe",
+            "rating": 4,
+            "comment": "Great college with excellent facilities!"
+         },
+         {
+            "user": "Jane Smith",
+            "rating": 5,
+            "comment": "I love the friendly atmosphere and supportive staff."
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "name": "XYZ College",
+      "image": "https://news.berkeley.edu/wp-content/uploads/2022/10/CampusConvo_LnS_FINAL.jpg",
+      "admissionDate": "2023-08-15",
+      "events": [
+         "Tech Fest",
+         "Cultural Day",
+         "Sports Meet"
+      ],
+      "researchHistory": "Research History for XYZ College",
+      "sports": [
+         "Cricket",
+         "Tennis",
+         "Swimming"
+      ],
+      "reviews": [
+         {
+            "user": "Michael Johnson",
+            "rating": 4,
+            "comment": "Amazing college with state-of-the-art facilities!"
+         },
+         {
+            "user": "Emily Davis",
+            "rating": 5,
+            "comment": "Top-notch faculty and supportive learning environment."
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "name": "MNO Institute",
+      "image": "https://media.beam.usnews.com/eb/826966db86f227d97af8db57db3cc3/20130218-A020_C010_20130218_B00000-2-Enhanced.jpg",
+      "admissionDate": "2023-09-15",
+      "events": [
+         "Annual Fest",
+         "Alumni Meet",
+         "Science Exhibition"
+      ],
+      "researchHistory": "Research History for MNO Institute",
+      "sports": [
+         "Hockey",
+         "Table Tennis",
+         "Badminton"
+      ],
+      "reviews": [
+         {
+            "user": "William Johnson",
+            "rating": 4,
+            "comment": "Highly qualified faculty and excellent academic programs."
+         },
+         {
+            "user": "Sophia Brown",
+            "rating": 5,
+            "comment": "The best place to pursue your dreams and aspirations!"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "name": "PQR College of Arts",
+      "image": "https://www.manchester.ac.uk/brunswick-500x298.jpg",
+      "admissionDate": "2023-08-20",
+      "events": [
+         "Art Exhibition",
+         "Literary Fest",
+         "Drama Workshop"
+      ],
+      "researchHistory": "Research History for PQR College of Arts",
+      "sports": [
+         "Painting",
+         "Dancing",
+         "Singing"
+      ],
+      "reviews": [
+         {
+            "user": "Emma Johnson",
+            "rating": 4,
+            "comment": "Amazing artistic environment and talented professors."
+         },
+         {
+            "user": "Daniel Wilson",
+            "rating": 5,
+            "comment": "A creative hub with endless opportunities."
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "name": "LMN Business School",
+      "image": "https://www.unishivaji.ac.in/uploads/home_photos/Shivaji-University-Kolhapur.jpg",
+      "admissionDate": "2023-09-10",
+      "events": [
+         "Business Summit",
+         "Entrepreneurship Workshop",
+         "Career Fair"
+      ],
+      "researchHistory": "Research History for LMN Business School",
+      "sports": [
+         "Business Strategy",
+         "Finance",
+         "Marketing"
+      ],
+      "reviews": [
+         {
+            "user": "Oliver Brown",
+            "rating": 4,
+            "comment": "Highly experienced faculty and great networking opportunities."
+         },
+         {
+            "user": "Ava Miller",
+            "rating": 5,
+            "comment": "A perfect blend of academics and practical learning."
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "name": "JKL Medical College",
+      "image": "https://www.crandallu.ca/crandallwp20/wp-content/uploads/2019/12/Crandall-Sign.jpg",
+      "admissionDate": "2023-08-25",
+      "events": [
+         "Medical Conference",
+         "Health Camp",
+         "Anatomy Workshop"
+      ],
+      "researchHistory": "Research History for JKL Medical College",
+      "sports": [
+         "Medicine",
+         "Surgery",
+         "Pharmacy"
+      ],
+      "reviews": [
+         {
+            "user": "Noah Wilson",
+            "rating": 4,
+            "comment": "Excellent medical facilities and dedicated professors."
+         },
+         {
+            "user": "Ella Davis",
+            "rating": 5,
+            "comment": "An institute that nurtures compassionate doctors."
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "name": "STU Engineering Institute",
+      "image": "https://www.crandallu.ca/crandallwp20/wp-content/uploads/2020/06/DD87129_HDR-scaled.jpg",
+      "admissionDate": "2023-09-05",
+      "events": [
+         "Tech Expo",
+         "Innovation Fair",
+         "Robotics Competition"
+      ],
+      "researchHistory": "Research History for STU Engineering Institute",
+      "sports": [
+         "Computer Science",
+         "Mechanical Engineering",
+         "Electronics"
+      ],
+      "reviews": [
+         {
+            "user": "Liam Johnson",
+            "rating": 4,
+            "comment": "Cutting-edge labs and skilled engineering faculty."
+         },
+         {
+            "user": "Mia Brown",
+            "rating": 5,
+            "comment": "An institute that fosters creativity and innovation."
+         }
+      ]
+   },
+   {
+      "id": 8,
+      "name": "VWX Law School",
+      "image": "https://oui.edu.in/wp-content/uploads/2022/02/oriental-university-indore-about-us.jpg",
+      "admissionDate": "2023-08-28",
+      "events": [
+         "Law Symposium",
+         "Moot Court",
+         "Legal Awareness Campaign"
+      ],
+      "researchHistory": "Research History for VWX Law School",
+      "sports": [
+         "Civil Law",
+         "Criminal Law",
+         "International Law"
+      ],
+      "reviews": [
+         {
+            "user": "Aiden Wilson",
+            "rating": 4,
+            "comment": "Highly knowledgeable faculty and practical training."
+         },
+         {
+            "user": "Abigail Davis",
+            "rating": 5,
+            "comment": "A great platform to become a skilled advocate."
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "name": "OPQ Music Academy",
+      "image": "https://pbs.twimg.com/media/E8_8EegXEAI0vSz.jpg",
+      "admissionDate": "2023-09-03",
+      "events": [
+         "Music Festival",
+         "Jam Session",
+         "Instrument Workshop"
+      ],
+      "researchHistory": "Research History for OPQ Music Academy",
+      "sports": [
+         "Vocal Music",
+         "Instrumental Music",
+         "Composition"
+      ],
+      "reviews": [
+         {
+            "user": "Lucas Brown",
+            "rating": 4,
+            "comment": "A paradise for music lovers with expert mentors."
+         },
+         {
+            "user": "Isabella Wilson",
+            "rating": 5,
+            "comment": "An institute that hones your musical talent."
+         }
+      ]
+   },
+   {
+      "id": 10,
+      "name": "EFG Design Institute",
+      "image": "https://www.usnews.com/dims4/USNEWS/6c797d0/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F21%2F5a%2Fcf871a134def9eb76eeaf37ba49e%2Fjmh-drone-halloflanguages-summer-00001.jpg",
+      "admissionDate": "2023-08-18",
+      "events": [
+         "Design Exhibition",
+         "Fashion Show",
+         "Art and Craft Workshop"
+      ],
+      "researchHistory": "Research History for EFG Design Institute",
+      "sports": [
+         "Fashion Design",
+         "Interior Design",
+         "Graphic Design"
+      ],
+      "reviews": [
+         {
+            "user": "Mason Davis",
+            "rating": 4,
+            "comment": "Creativity knows no bounds at EFG Design Institute."
+         },
+         {
+            "user": "Evelyn Johnson",
+            "rating": 5,
+            "comment": "An excellent platform for aspiring designers."
+         }
+      ]
+   },
+   {
+      "id": 11,
+      "name": "LMN Business School",
+      "image": "https://www.elmhurst.edu/wp-content/uploads/2020/07/elmhurst-university-gates-v3-hero-image.jpg",
+      "admissionDate": "2023-09-10",
+      "events": [
+         "Business Summit",
+         "Entrepreneurship Workshop",
+         "Career Fair"
+      ],
+      "researchHistory": "Research History for LMN Business School",
+      "sports": [
+         "Business Strategy",
+         "Finance",
+         "Marketing"
+      ],
+      "reviews": [
+         {
+            "user": "Oliver Brown",
+            "rating": 4,
+            "comment": "Highly experienced faculty and great networking opportunities."
+         },
+         {
+            "user": "Ava Miller",
+            "rating": 5,
+            "comment": "A perfect blend of academics and practical learning."
+         }
+      ]
+   },
+   {
+      "id": 12,
+      "name": "JKL Medical College",
+      "image": "https://www.belmont.edu/_assets/img/home/headervideo-homepage.jpg",
+      "admissionDate": "2023-08-25",
+      "events": [
+         "Medical Conference",
+         "Health Camp",
+         "Anatomy Workshop"
+      ],
+      "researchHistory": "Research History for JKL Medical College",
+      "sports": [
+         "Medicine",
+         "Surgery",
+         "Pharmacy"
+      ],
+      "reviews": [
+         {
+            "user": "Noah Wilson",
+            "rating": 4,
+            "comment": "Excellent medical facilities and dedicated professors."
+         },
+         {
+            "user": "Ella Davis",
+            "rating": 5,
+            "comment": "An institute that nurtures compassionate doctors."
+         }
+      ]
+   },
+   {
+      "id": 13,
+      "name": "STU Engineering Institute",
+      "image": "https://images.shiksha.ws/mediadata/images/articles/iStock-500765051.jpg",
+      "admissionDate": "2023-09-05",
+      "events": [
+         "Tech Expo",
+         "Innovation Fair",
+         "Robotics Competition"
+      ],
+      "researchHistory": "Research History for STU Engineering Institute",
+      "sports": [
+         "Computer Science",
+         "Mechanical Engineering",
+         "Electronics"
+      ],
+      "reviews": [
+         {
+            "user": "Liam Johnson",
+            "rating": 4,
+            "comment": "Cutting-edge labs and skilled engineering faculty."
+         },
+         {
+            "user": "Mia Brown",
+            "rating": 5,
+            "comment": "An institute that fosters creativity and innovation."
+         }
+      ]
+   },
+   {
+      "id": 14,
+      "name": "VWX Law School",
+      "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20200626113827/iStock-596086916.jpg",
+      "admissionDate": "2023-08-28",
+      "events": [
+         "Law Symposium",
+         "Moot Court",
+         "Legal Awareness Campaign"
+      ],
+      "researchHistory": "Research History for VWX Law School",
+      "sports": [
+         "Civil Law",
+         "Criminal Law",
+         "International Law"
+      ],
+      "reviews": [
+         {
+            "user": "Aiden Wilson",
+            "rating": 4,
+            "comment": "Highly knowledgeable faculty and practical training."
+         },
+         {
+            "user": "Abigail Davis",
+            "rating": 5,
+            "comment": "A great platform to become a skilled advocate."
+         }
+      ]
+   },
+   {
+      "id": 15,
+      "name": "OPQ Music Academy",
+      "image": "https://thumbs.dreamstime.com/b/oxford-uk-skyline-unusual-view-showing-spires-roofs-sun-oxford-uk-view-new-college-tower-skyline-unusual-190460432.jpg",
+      "admissionDate": "2023-09-03",
+      "events": [
+         "Music Festival",
+         "Jam Session",
+         "Instrument Workshop"
+      ],
+      "researchHistory": "Research History for OPQ Music Academy",
+      "sports": [
+         "Vocal Music",
+         "Instrumental Music",
+         "Composition"
+      ],
+      "reviews": [
+         {
+            "user": "Lucas Brown",
+            "rating": 4,
+            "comment": "A paradise for music lovers with expert mentors."
+         },
+         {
+            "user": "Isabella Wilson",
+            "rating": 5,
+            "comment": "An institute that hones your musical talent."
+         }
+      ]
+   },
+   {
+      "id": 16,
+      "name": "EFG Design Institute",
+      "image": "https://www.usnews.com/cmsmedia/52/9e/40ae3728470f83d2903a813cb773/201002-ucla-stock.jpg",
+      "admissionDate": "2023-08-18",
+      "events": [
+         "Design Exhibition",
+         "Fashion Show",
+         "Art and Craft Workshop"
+      ],
+      "researchHistory": "Research History for EFG Design Institute",
+      "sports": [
+         "Fashion Design",
+         "Interior Design",
+         "Graphic Design"
+      ],
+      "reviews": [
+         {
+            "user": "Mason Davis",
+            "rating": 4,
+            "comment": "Creativity knows no bounds at EFG Design Institute."
+         },
+         {
+            "user": "Evelyn Johnson",
+            "rating": 5,
+            "comment": "An excellent platform for aspiring designers."
+         }
+      ]
+   },
+   {
+      "id": 17,
+      "name": "ABC University",
+      "image": "https://st3.depositphotos.com/8687452/33736/i/450/depositphotos_337369892-stock-photo-high-angle-view-of-the.jpg",
+      "admissionDate": "2023-09-01",
+      "events": [
+         "Event 1",
+         "Event 2",
+         "Event 3"
+      ],
+      "researchHistory": "Research History for ABC University",
+      "sports": [
+         "Football",
+         "Basketball",
+         "Volleyball"
+      ],
+      "reviews": [
+         {
+            "user": "John Doe",
+            "rating": 4,
+            "comment": "Great college with excellent facilities!"
+         },
+         {
+            "user": "Jane Smith",
+            "rating": 5,
+            "comment": "I love the friendly atmosphere and supportive staff."
+         }
+      ]
+   },
+   {
+      "id": 18,
+      "name": "XYZ College",
+      "image": "https://i.dailymail.co.uk/1s/2023/02/26/01/68088415-11794111-image-a-82_1677376670824.jpg",
+      "admissionDate": "2023-08-15",
+      "events": [
+         "Tech Fest",
+         "Cultural Day",
+         "Sports Meet"
+      ],
+      "researchHistory": "Research History for XYZ College",
+      "sports": [
+         "Cricket",
+         "Tennis",
+         "Swimming"
+      ],
+      "reviews": [
+         {
+            "user": "Michael Johnson",
+            "rating": 4,
+            "comment": "Amazing college with state-of-the-art facilities!"
+         },
+         {
+            "user": "Emily Davis",
+            "rating": 5,
+            "comment": "Top-notch faculty and supportive learning environment."
+         }
+      ]
+   },
+   {
+      "id": 19,
+      "name": "MNO Institute",
+      "image": "https://i2-prod.cambridge-news.co.uk/news/cambridge-news/article24183175.ece/ALTERNATES/s615/0_JS238376993.jpg",
+      "admissionDate": "2023-09-15",
+      "events": [
+         "Annual Fest",
+         "Alumni Meet",
+         "Science Exhibition"
+      ],
+      "researchHistory": "Research History for MNO Institute",
+      "sports": [
+         "Hockey",
+         "Table Tennis",
+         "Badminton"
+      ],
+      "reviews": [
+         {
+            "user": "William Johnson",
+            "rating": 4,
+            "comment": "Highly qualified faculty and excellent academic programs."
+         },
+         {
+            "user": "Sophia Brown",
+            "rating": 5,
+            "comment": "The best place to pursue your dreams and aspirations!"
+         }
+      ]
+   },
+   {
+      "id": 20,
+      "name": "PQR College of Arts",
+      "image": "https://elabedu.eu/wp-content/uploads/2021/09/how-to-get-into-university-of-cambridge-study-in-the-uk-studiare-in-inghilterra-come-entrare-a-Universita-di-cambridge-studia-w-anglii-jak-sie-dostac-na-cambridge.jpeg",
+      "admissionDate": "2023-08-20",
+      "events": [
+         "Art Exhibition",
+         "Literary Fest",
+         "Drama Workshop"
+      ],
+      "researchHistory": "Research History for PQR College of Arts",
+      "sports": [
+         "Painting",
+         "Dancing",
+         "Singing"
+      ],
+      "reviews": [
+         {
+            "user": "Emma Johnson",
+            "rating": 4,
+            "comment": "Amazing artistic environment and talented professors."
+         },
+         {
+            "user": "Daniel Wilson",
+            "rating": 5,
+            "comment": "A creative hub with endless opportunities."
+         }
+      ]
+   }
+]

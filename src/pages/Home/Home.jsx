@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import CollegeCard from '../components/CollegeCard';
 import Gallery from '../../components/Home/Gallery';
 import Research from '../../components/Home/Research';
 import Reviews from '../../components/Home/Reviews';
+import CollegeCard from '../../components/Home/CollegeCard';
 
 const Home = () => {
    const [colleges, setColleges] = useState([]);
@@ -12,7 +12,7 @@ const Home = () => {
    useEffect(() => {
       // Add your API call to fetch college data
       // Example API call using fetch:
-      fetch('/api/colleges')
+      fetch('/data.json')
          .then((response) => response.json())
          .then((data) => setColleges(data))
          .catch((error) => console.error('Error fetching college data:', error));
